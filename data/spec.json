@@ -1,0 +1,128 @@
+[
+  {
+    "BM": "(S11)",
+    "Burns": "Burns management",
+    "Burns1": "बर्न मैनेजमेंट",
+    "Img": "burnmanagmnet"
+  },
+  {
+    "BM": "(S13)",
+    "Burns": "Cardio-thoracic & Vascular surgery",
+    "Burns1": "कार्डियोथैरोसिक एंड वैस्कुलर सर्जरी"
+  },
+  {
+    "BM": "(MC)",
+    "Burns": "Cardiology",
+    "Burns1": "हृदय रोग"
+  },
+  {
+    "BM": "(M7)",
+    "Burns": "Emergency Room Packages",
+    "Burns1": "आकस्मिक कक्ष पैकेज"
+  },
+  {
+    "BM": "(M1)",
+    "Burns": "General Medicine",
+    "Burns1": "जनरल  उपचार"
+  },
+  {
+    "BM": "(S1)",
+    "Burns": "General Surgery",
+    "Burns1": "जनरल  सर्जरी"
+  },
+  {
+    "BM": "(ID)",
+    "Burns": "Infectious Diseases",
+    "Burns1": "संक्रामक रोग"
+  },
+  {
+    "BM": "(S9)",
+    "Burns": "Interventional Neuroradiology",
+    "Burns1": "इंटरवेंशनल न्यूरोरेडियोलॉजी"
+  },
+  {
+    "BM": "(M5)",
+    "Burns": "Medical Oncology",
+    "Burns1": "दवाओं द्वारा कैंसर का उपचार"
+  },
+  {
+    "BM": "(MM)",
+    "Burns": "Mental Disorders Packages",
+    "Burns1": "मानसिक बीमारी सम्बन्धी"
+  },
+  {
+    "BM": "(MN)",
+    "Burns": "Neo-Natal care Package",
+    "Burns1": "बच्चों के रोग संबंधी उपचार"
+  },
+  {
+    "BM": "(S8)",
+    "Burns": "Neurosurgery",
+    "Burns1": "न्यूरोसर्जरी"
+  },
+  {
+    "BM": "(S4)",
+    "Burns": "Obstetrics & Gynaecology",
+    "Burns1": "स्त्री  एवम प्रसूती रोग"
+  },
+  {
+    "BM": "(S3)",
+    "Burns": "Opthalmology",
+    "Burns1": "नेत्र रोग उपचार"
+  },
+  {
+    "BM": "(S16)",
+    "Burns": "Oral and Maxillofacial Surgery",
+    "Burns1": "ओरल एंड मैक्सिलोफ़ेसियल सर्जरी(दांत की सर्जरी)"
+  },
+  {
+    "BM": "(OT)",
+    "Burns": "Organ & Tissue transplant",
+    "Burns1": "अंग एवं उत्तक प्रत्यारोपण"
+  },
+  {
+    "BM": "(S5)",
+    "Burns": "Orthopaedics",
+    "Burns1": "अस्थि रोग"
+  },
+  {
+    "BM": "(S2)",
+    "Burns": "Otorhinolaryngology(ENT)",
+    "Burns1": "नाक कान एवं गला रोग"
+  },
+  {
+    "BM": "(M4)",
+    "Burns": "Paediatric cancer",
+    "Burns1": "बच्चों का कैंसर"
+  },
+  {
+    "BM": "(S14)",
+    "Burns": "Paediatric surgery",
+    "Burns1": "बच्चों की सर्जरी"
+  },
+  {
+    "BM": "(SP)",
+    "Burns": "Plastic & reconstructive Surgery",
+    "Burns1": "प्लास्टिक सर्जरी"
+  },
+  {
+    "BM": "(S6)",
+    "Burns": "Polytrauma",
+    "Burns1": "पॉलीट्रामा"
+  },
+  {
+    "BM": "(M6)",
+    "Burns": "Radiation Oncology",
+    "Burns1": "सिकाई द्वारा कैंसर का उपचार"
+  },
+  {
+    "BM": "(S15)",
+    "Burns": "Surgical Oncology",
+    "Burns1": "सर्जरी द्वारा कैंसर का उपचार"
+  },
+  {
+    "BM": "(S7)",
+    "Burns": "Urology",
+    "Burns1": "गुर्दा एवम मूत्र रोग उपचार"
+  }
+]
