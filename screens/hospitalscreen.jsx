@@ -277,7 +277,11 @@ const HospitalScreen = ({navigation}) => {
                   setSelectedCity(itemValue)
                 }>
                 {userLanguage === 'English' ? (
-                  <Picker.Item label="All Districs" value="all" color="black" />
+                  <Picker.Item
+                    label="All Districts"
+                    value="all"
+                    color="black"
+                  />
                 ) : (
                   <Picker.Item label="सभी जिले" value="all" color="black" />
                 )}

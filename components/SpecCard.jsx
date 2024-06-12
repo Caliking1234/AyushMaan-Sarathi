@@ -8,7 +8,7 @@ const SpecCard = ({cardData, onPress, userLanguage, index}) => {
     image2: require('../assets/images/cardiovascular.jpg'),
     image3: require('../assets/images/cardio.png'),
     image4: require('../assets/images/emergencyroompackage.webp'),
-    image5: require('../assets/images/burnmanagmnet.jpg'),
+    image5: require('../assets/images/generalmedicen.png'),
     image6: require('../assets/images/generalSurgery.png'),
     image7: require('../assets/images/infectious1.png'),
     image8: require('../assets/images/scan.jpg'),
