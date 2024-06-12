@@ -59,11 +59,11 @@ const ListItems = ({item, userLanguage}) => {
       <Text style={styles.itemaddress}>
         {userLanguage === 'English' ? item['District'] : item['HDistrict']}
       </Text>
-      <Text style={styles.itemspecs}>
+      {/* <Text style={styles.itemspecs}>
         {userLanguage === 'English'
           ? item['Compiled Specialities ']
           : item['Hspeciality']}
-      </Text>
+      </Text> */}
     </TouchableOpacity>
   );
 };
